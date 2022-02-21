@@ -1,6 +1,6 @@
 import React from "react";
 
-class Sample extends React.Component
+class Add extends React.Component
 {
          constructor(pros)
          {
@@ -10,9 +10,9 @@ class Sample extends React.Component
          {
              return(
                 <React.Fragment>
-                    <h1>Simpale Component IS HERE </h1>   
+                    <h1>Add Component IS HERE </h1>   
                  </React.Fragment>
              )
          }
 }
-export default Sample;
+export default Add;

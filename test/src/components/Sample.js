@@ -10,7 +10,7 @@ class Sample extends React.Component
          {
              return(
                 <React.Fragment>
-                    <h1>Simpale Com </h1>
+                    <h1>Simpale Component IS HERE </h1>   
                 </React.Fragment>
              )
          }

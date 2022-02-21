@@ -2,7 +2,7 @@ import React from "react";
 
 class Help extends React.Component
 {
-         constructor(pros)
+         constructor(props)
          {
              super(props)
          }
